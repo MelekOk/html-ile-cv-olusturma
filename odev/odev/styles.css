@@ -1,0 +1,219 @@
+﻿.body{
+    margin:0;
+    padding:0;
+}
+.header {
+    width: 100%;
+    height: 305px;
+    background-color: deeppink;
+    padding:10px 0 10px 0;
+}
+.h_top {
+    width: 97%;
+    height: 90px;
+    background-color: hotpink;
+    position: relative;
+    margin: auto;
+}
+.h_top_left {
+    width: 16%;
+    height: 80px;
+    background-color: pink;
+    float: left;
+    margin:5px 0 5px 5px;
+}
+.h_top_left img {
+    width: 16%;
+    height: 80px;
+    position: absolute;
+}
+
+.h_top_right {
+    width: 82%;
+    height: 80px;
+    background-color: pink;
+    float: right;
+    margin: 5px;
+}
+    .h_top_right h1 {
+        font-size: 40px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-color: black;
+        font-weight: bold;
+        text-align: center;
+        padding:10px;
+        margin:auto;
+    }
+.h_middle {
+    width: 97%;
+    height: 50px;
+    background-color: hotpink;
+    position: relative;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+.h_middle_left {
+    display: inline-block;
+    margin:auto;
+}
+    .h_middle_left img {
+        width: 90px;
+        height: 45px;
+        margin-top:3px;
+    }
+.iletisim {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    align-items: center;
+}
+    .h_middle_middle {
+        display: inline-block;
+    }
+    .h_middle_middle img {
+        width: 80px;
+        height: 40px;
+        margin-bottom: 3px;
+    }
+.h_middle_right {
+    display: inline-block;
+}
+    .h_middle_right img {
+        width: 90px;
+        height: 45px;
+        margin-top: 3px;
+    }
+.h_bottom {
+    width: 97%;
+    height: 140px;
+    background-color: hotpink;
+    position: relative;
+    margin: auto;
+    margin-top: 10px;
+}
+.hakkimda {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: black;
+   padding:10px;
+   font-style:italic;
+}
+.body_ {
+    width: 100%;
+    height: 305px;
+    background-color: deeppink;
+    margin-top:10px;
+    padding: 10px 0 10px 0;
+}
+.b_left {
+    width: 20%;
+    height: 305px;
+    float:left;
+    background-color: hotpink;
+    position: relative;
+    margin-left:20px;
+}
+    .b_left h2{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:black;
+        text-align:center;
+    }
+    .b_left p {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: black;
+        text-align: center;
+    }
+    .b_right {
+        width: 75.5%;
+        height: 305px;
+        float: right;
+        background-color: hotpink;
+        position: relative;
+        margin-right: 20px;
+    }
+.b_right_top {
+    width: 98%;
+    height: 40px;
+    background-color: pink;
+    margin: auto;
+}
+    .b_right_top h2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: black;
+        text-align: center;
+    }
+.b_right_middle {
+    width: 98%;
+    height: 227px;
+    background-color: pink;
+    margin: auto;
+    margin-top: 10px;
+}
+.b_right_middle_left {
+    width: 48.6%;
+    height: 214px;
+    background-color: white;
+    margin: 7px;
+    float: left;
+}
+.b_right_middle_left_top {
+    width: 97%;
+    height: 30px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 7px;
+}
+    .b_right_middle_left_top h2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: black;
+        text-align: center;
+        margin:auto;
+    }
+.b_right_middle_left_bottom {
+    width: 97%;
+    height: 163px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 7px;
+}
+    .b_right_middle_left_bottom p {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: black;
+        text-align: center;
+        margin: auto;
+    }
+    .b_right_middle_right {
+        width: 48.6%;
+        height: 214px;
+        background-color: white;
+        margin: 7px 7px 7px 0;
+        float: right;
+    }
+.b_right_middle_right_top {
+    width: 97%;
+    height: 30px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 7px;
+}
+    .b_right_middle_right_top h2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: black;
+        text-align: center;
+        margin: auto;
+    }
+    .b_right_middle_right_bottom {
+        width: 97%;
+        height: 163px;
+        background-color: aqua;
+        margin: auto;
+        margin-top: 7px;
+    }
+        .b_right_middle_right_bottom p {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: black;
+            text-align: center;
+            margin: auto;
+        }
